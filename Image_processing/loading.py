@@ -1,6 +1,6 @@
 import cv2
 
-image=cv2.imread('Image_processing\python_img.jpg')
+image=cv2.imread(r'Image_processing\rawImages\python_img.jpg')
 
 if image is not None:
     print("Image loaded successfully.")
