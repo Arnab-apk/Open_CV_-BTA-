@@ -167,8 +167,3 @@ You are free to use, modify, and distribute it with attribution.
 </div>
 ```
 
----
-
-Would you like me to make it more **aesthetic (with emoji headings and better section dividers)** or more **professional (clean, minimal for GitHub portfolio use)**?
-I can tailor it accordingly.
-
