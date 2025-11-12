@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV Logo" width="180"/>
+
 # 👁️‍🗨️ OpenCV Projects Repository  
 ### *Exploring Computer Vision, One Frame at a Time*  
 
@@ -9,6 +11,7 @@
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
 </div>
+
 
 ---
 
@@ -163,9 +166,4 @@ You are free to use, modify, and distribute it with attribution.
 
 </div>
 ```
-
----
-
-Would you like me to make it more **aesthetic (with emoji headings and better section dividers)** or more **professional (clean, minimal for GitHub portfolio use)**?
-I can tailor it accordingly.
 
