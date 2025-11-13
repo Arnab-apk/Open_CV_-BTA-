@@ -10,7 +10,7 @@ if image is not None:
     #slicing the image
     #syntax: image[y1:y2, x1:x2]
     #image[startY:endY, startX:endX]
-    cropped_image = image[50:250, 100:300]
+    cropped_image = image[50:300, 100:301]
     cropped_height, cropped_width = cropped_image.shape[:2]
     print(f"Cropped Dimensions: Width={cropped_width}, Height={cropped_height}")
     cv2.imshow('Cropped Image', cropped_image)
